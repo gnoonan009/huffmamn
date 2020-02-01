@@ -1,4 +1,4 @@
-# huffmamn
+# huffman
 Lossless Data Compression
 
 Implementation of Huffman Code Algorithm in C++
